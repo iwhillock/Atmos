@@ -9,13 +9,13 @@ Atmos is a Max for Live Device that allows the playback of sound files independe
 
 ---
 ### USE CASES
-Atmos was built to play introduction, changeover, or exit material when clocking is still needed at an indeterminate time within the same Live Set. A Live Set can be played as normal, and when the transport is stopped, a soundfile can be automatically triggered. It can also be used creatively, adding the ability of flexible timing to compositions, while staying within the Live ecosystem. 
+Atmos was built to play introduction, transition, or exit material when clocking is still needed at an indeterminate time within the same Live Set. For example, a Live Set can be played as normal, and when the transport is stopped, a soundfile can be automatically triggered. It can also be used creatively, adding the ability of flexible timing to compositions, while staying within the Live ecosystem. 
 
 ----
 ### COMPATIBILITY 
 - Works only with MacOS. Tested with Apple Silicon, MacOS 15.6.1, November 2025.
 ### INSTALLATION
-- Simply download the device and add it to where your Max4Live devices are stored
+- Download the folder and add it to where your Max4Live devices are stored. Make sure that this directory is in your Max File Preferences with Subfolder enabled to ensure all the proper codes are loaded. 
 
 ----
 ### NAMING
