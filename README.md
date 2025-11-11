@@ -1,7 +1,7 @@
 
 <img width="500" height="500" alt="atmos-1 7" src="https://github.com/user-attachments/assets/adf675f6-c000-4c53-9576-d70cc227d3ad" />
 
-# ATMOS (ALPHA 0.95)
+# ATMOS (ALPHA 0.96)
 by [Ian Whillock](ianwhillock.com)
 
 Atmos is a Max for Live Device that allows the playback of sound files independent of the Ableton transport. 
