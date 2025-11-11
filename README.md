@@ -1,3 +1,8 @@
+
+<img width="280" height="280" alt="atmos-1 4 copy" src="https://github.com/user-attachments/assets/0c498f72-1e1b-4fde-ad2b-7baf47e4a685" />
+
+
+# ATMOS
 by [Ian Whillock](ianwhillock.com)
 
 Atmos is a Max for Live Device that allows the playback of sound files independent of the Ableton transport. 
