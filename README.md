@@ -1,5 +1,6 @@
 
-<img width="280" height="280" alt="atmos-1 4 copy" src="https://github.com/user-attachments/assets/0c498f72-1e1b-4fde-ad2b-7baf47e4a685" />
+
+<img width="240" height="240" alt="atmos-1 5 copy" src="https://github.com/user-attachments/assets/2c810521-6927-46c3-825c-e97e434d2c5f" />
 
 
 # ATMOS (ALPHA 0.95)
