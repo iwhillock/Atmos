@@ -1,8 +1,10 @@
+by [Ian Whillock](ianwhillock.com)
+
 Atmos is a Max for Live Device that allows the playback of sound files independent of the Ableton transport. 
 
 ---
 ### USE CASES
-Atmos was built to play introduction, changeover, or exit music when clocking is still needed at an indeterminate time within the same Live Set. A Live Set can be played as normal, and when the transport is stopped, a soundfile can be automatically triggered. It can also be used creatively, adding the ability of flexible timing to compositions, while staying within the Live ecosystem. 
+Atmos was built to play introduction, changeover, or exit material when clocking is still needed at an indeterminate time within the same Live Set. A Live Set can be played as normal, and when the transport is stopped, a soundfile can be automatically triggered. It can also be used creatively, adding the ability of flexible timing to compositions, while staying within the Live ecosystem. 
 
 ----
 ### COMPATIBILITY 
@@ -12,14 +14,14 @@ Atmos was built to play introduction, changeover, or exit music when clocking is
 
 ----
 ### NAMING
-- Each Atmos devices in a Live Set can be given a unique name. 
+- Each Atmos device in a Live Set can be given a unique name. 
 - This is to help organize multiple instances of the device, and also for external control.
 ### LOADING A FILE
 - a file can be loaded by clicking the "LOAD" button, or by dragging and dropping a file onto the path name.
 - all files within the live set used in the Atmos devices are stored in a Menu, and can be accessed with the green arrow. 
 ### PLAYBACK
 - Fade in and fade out times: fade occurs when the soundfile is turned on or off. 
-	- when a file is fading out, clicking the emain button once more stops the file instantly.
+	- when a file is fading out, clicking the main button once more stops the file instantly.
 	- hitting the "reset" button stops playback of all Atmos instances instantly.
 - MIDI trigger on/off: each device can be triggered on or off with a midi note. 
 - Oneshot: plays the sound file once from start to end
