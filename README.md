@@ -1,7 +1,4 @@
-
-
-<img width="240" height="240" alt="atmos-1 5 copy" src="https://github.com/user-attachments/assets/2c810521-6927-46c3-825c-e97e434d2c5f" />
-
+<img width="400" height="400" alt="atmos-1 6-transparent copy" src="https://github.com/user-attachments/assets/f00ded2f-06be-4fcc-b5a9-1c67e031f9e8" />
 
 # ATMOS (ALPHA 0.95)
 by [Ian Whillock](ianwhillock.com)
