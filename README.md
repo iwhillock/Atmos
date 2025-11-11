@@ -17,6 +17,7 @@ Atmos was built to play introduction, changeover, or exit material when clocking
 - Each Atmos device in a Live Set can be given a unique name. 
 - This is to help organize multiple instances of the device, and also for external control.
 ### LOADING A FILE
+- **before loading a file, the Live Set must be saved.**
 - a file can be loaded by clicking the "LOAD" button, or by dragging and dropping a file onto the path name.
 - all files within the live set used in the Atmos devices are stored in a Menu, and can be accessed with the green arrow. 
 ### PLAYBACK
