@@ -14,7 +14,7 @@ Atmos was built to play introduction, transition, or exit material when clocking
 ### COMPATIBILITY 
 - Works only with MacOS. Tested with Apple Silicon, MacOS 15.6.1, November 2025.
 ### INSTALLATION
-- Download the folder and add it to where your Max4Live devices are stored. Make sure that this directory is in your Max File Preferences with Subfolder enabled to ensure all the proper codes are loaded. 
+- Download the folder and add it to where your Max4Live devices are stored. Make sure that this directory is in your Max File Preferences with Subfolder enabled to ensure all the proper external recources are loaded. 
 
 ----
 ### NAMING
